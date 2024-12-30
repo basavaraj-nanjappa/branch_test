@@ -21,6 +21,7 @@ $version = "1.0";
                     <ul>
                         <li>commit 1</li>
                         <li>commit 2</li>
+                        <li>commit 3</li>
                     </ul>
                 </li>
             </ul>
