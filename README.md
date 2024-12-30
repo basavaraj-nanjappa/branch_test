@@ -1,6 +1,6 @@
 ## Test core branches
 
-
+```
 Initial commits in main branch
 tag main branch as rel-base-r01 (usually previous branch)
 Create integration-rel-r01 fromt the main branch
@@ -89,6 +89,4 @@ End of sprint, Code-freeze
 	tag main branch for the new release release-r01-date02
     
 
-
-
-Create integration-rel-r02
+```
