@@ -11,6 +11,7 @@ $version = "1.0";
         <h2>This is version <?php echo $version?></h2>
         <ol>
             <li>initial commit</li>
+            <li>Hot Fix SW-x01</li>
         </ol>
     </body>
 </html>
